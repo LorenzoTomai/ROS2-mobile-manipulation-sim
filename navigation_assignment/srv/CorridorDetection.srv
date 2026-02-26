@@ -1,0 +1,3 @@
+---
+geometry_msgs/PoseStamped corridor_pose
+bool success

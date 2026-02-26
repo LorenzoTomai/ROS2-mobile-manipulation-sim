@@ -1,0 +1,4 @@
+---
+geometry_msgs/PoseArray tables
+bool success
+string message
