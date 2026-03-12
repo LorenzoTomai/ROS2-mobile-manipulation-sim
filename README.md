@@ -13,7 +13,6 @@ The goal of this portfolio is to showcase both **software design** and **ROS2 sy
 - **Nav2**: Autonomous navigation stack for the mobile robot.  
 - **MoveIt**: Motion planning and execution for the manipulator.  
 - **Gazebo Simulation**: Simulated robot environment including world files and objects.  
-- **TF2**: Frame transformations for sensor and robot integration.
 
 For detailed system architecture, diagrams, and node descriptions, see the [assignment reports](#reports).
 
